@@ -1,1 +1,1 @@
-Landing Pad - An application for outdoors networking and event planning
+An application where those who love to celebrate the outdoors can easily connect around their passions.
